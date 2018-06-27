@@ -1,0 +1,29 @@
+Last login: Wed Jun 27 13:16:44 on ttys001
+noj-mbp:~ noj$ cd Documents/
+noj-mbp:Documents noj$ ls
+Flixster	Tipster		Tumbler		testproj2
+noj-mbp:Documents noj$ clear
+# Carthage/Checkouts
+
+Carthage/Build
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/#source-control
+
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code Injection
+#
+# After new code Injection tools there's a generated folder /iOSInjectionProject
+# https://github.com/johnno1962/injectionforxcode
+
+iOSInjectionProject/
+~
+E78: Unknown mark
